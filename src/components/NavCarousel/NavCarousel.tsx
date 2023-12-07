@@ -2,7 +2,7 @@ import { type ReactElement } from 'react'
 
 const NavCarousel = (): ReactElement => {
   return (
-    <div>NavCarousel</div>
+    <div data-testid="navCarousel">NavCarousel</div>
   )
 }
 
